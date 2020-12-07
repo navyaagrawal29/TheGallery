@@ -1,0 +1,36 @@
+{
+    "site_name": "The Gallery",
+    "img_logo_nav": "https://lh3.googleusercontent.com/NMh7wpEQQBSfwPo7uo7aZY8XBfh3GBjVqhtslM3jGuKXSrlvdUlWSNclGliHaYjBCKERDcuMsrDyt9WoTwHdc0iZn14",
+    "img_logo_nav_colored": "https://lh3.googleusercontent.com/zkT61J6tqoftn8dPWtOXAyZ6_sfAic_4w9OUx29VmXxqtYaC4obD_rdcpGH1AHkusY_GcQSXL7Zqb6qiYnWpLeDi7Q",
+    "img_logo_footer": "https://lh3.googleusercontent.com/NMh7wpEQQBSfwPo7uo7aZY8XBfh3GBjVqhtslM3jGuKXSrlvdUlWSNclGliHaYjBCKERDcuMsrDyt9WoTwHdc0iZn14",
+    "social": {
+        "facebook": {
+            "link": "https://www.facebook.com",
+            "show_or_hide": true
+        },
+        "twitter": {
+            "link": "https://www.twitter.com",
+            "show_or_hide": true
+        },
+        "linkedin": {
+            "link": "https://www.linkedin.com",
+            "show_or_hide": true
+        },
+        "instagram": {
+            "link": "https://www.instagram.com",
+            "show_or_hide": true
+        },
+        "youtube": {
+            "link": "https://www.youtube.com",
+            "show_or_hide": true
+        },
+        "github": {
+            "link": "https://www.github.com",
+            "show_or_hide": true
+        },
+        "dribbble": {
+            "link": "https://www.dribbble.com",
+            "show_or_hide": true
+        }
+    }
+}

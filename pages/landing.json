@@ -1,0 +1,16 @@
+{
+    "hero": {
+        "greeting" : "Hey,there!",
+        "introduction" : "I am Gill Bates. I am a Graphic Designer. I like capturing moments while I travel accross the world.",
+        "img_profile" : "https://lh3.googleusercontent.com/n5Z-OlLZCHkC-fOuhiAwIXuqCrHBEQPgm2M3DDcNaohVp-Db-OJDOgg0Q5o7MQPslpHzZlLRwjHg8EsyCEZCTLfc",
+        "img_background": "https://lh3.googleusercontent.com/RoGjimn3vnLdpBCI3PhmJJebU8-aDdshPjAjqNKm3UEn4_d5yYsERVu_ghdLvEPMsZO1B8hKflQwW8lX17TZOp-8Su8"
+    },
+    "categories":{
+        "header":"Dare.Believe.Hustle.",
+        "subheader":"Somewhere, something incredible is waiting to be discovered by you. Stop stopping yourself!"
+    },
+    "contact":{
+        "header":"Contact Us!",
+        "subheader":"We'd love to hear out your concerns and queries. We'll get back to you right away!"
+    }
+}
